@@ -1,0 +1,9 @@
+{
+  "name": "DOOM SAGA \u2014 Intelligence Archive V5",
+  "short_name": "Doom Archive",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#020403",
+  "theme_color": "#07100a",
+  "description": "Local-first cinematic intelligence archive for the Doom Saga preparation."
+}
