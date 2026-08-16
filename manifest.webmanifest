@@ -1,23 +1,30 @@
 {
-  "name": "DOOM SAGA · Intelligence Archive",
+  "id": "./",
+  "name": "DOOM SAGA · LU HERRAMIENTAS",
   "short_name": "DOOM SAGA",
-  "start_url": "./index.html",
+  "description": "Archivo interactivo y guía de recorrido del universo de Doctor Doom.",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
   "orientation": "any",
   "background_color": "#050807",
   "theme_color": "#07110b",
   "lang": "es",
+  "dir": "ltr",
+  "categories": ["entertainment", "books", "education"],
   "icons": [
     {
       "src": "assets/icon-192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
       "src": "assets/icon-512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
